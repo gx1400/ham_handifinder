@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SMA-J-P-H-ST-EM1")(type "KiCad")(uri "C:/Users/derek/repos/ham_handifinder/SMA-J-P-H-ST-EM1")(options "")(descr ""))
+  (lib (name "projlibrary")(type "KiCad")(uri "${KIPRJMOD}/projlibrary.pretty")(options "")(descr ""))
+)

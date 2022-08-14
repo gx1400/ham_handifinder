@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "handifinder_projlib")(type "KiCad")(uri "${KIPRJMOD}/handifinder_projlib.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA-J-P-H-ST-EM1")(type "Legacy")(uri "C:/Users/derek/repos/ham_handifinder/SMA-J-P-H-ST-EM1/SMA-J-P-H-ST-EM1.lib")(options "")(descr ""))
+)
